@@ -1,5 +1,4 @@
 # Virtual-Voice-Assistant
-# This Repo. is the copy of Krish Depani 
 
 #### Welcome to Virtual Voice Assisant, a virtual voice assistant that can help you with a variety of tasks. This project utilizes machine learning and natural language processing to create a natural and intuitive experience for users. With Virtual Voice Assistant, you can easily interact with your computer by simply speaking to it.
 #### For a cool demo of this project watch this [YouTube video](https://www.youtube.com/watch?v=ErR-vdYssv0)
@@ -94,4 +93,7 @@ You're all set! The virtual voice assistant should be up and running now.
 
 The code in this repository is licensed under the MIT License. This means that you are free to use, modify, and distribute the code, as long as you include the original copyright and license notice. For more information about LICENSE please click [here](https://github.com/Kunal-kawate/Virtual_Voice_Assistant_Python/blob/main/LICENSE).
 
+# This Repo. is the copy of Krish Depani 
+
 ## Thanks for checking out!!
+
